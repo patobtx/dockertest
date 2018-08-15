@@ -1,3 +1,5 @@
-<?php
-phpinfo();
-?>
+<html>
+<body>
+test
+</body>
+</html>
